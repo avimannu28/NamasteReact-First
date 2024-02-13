@@ -5,4 +5,9 @@
     console.log(heading)
     root.render(heading)
 
-//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
+/*
+    Create Element is a react element which is an normal JS object
+    React DOM convert the value in normal html and put that inside the root file
+    we call a react a library because react can be applied in a smaller portion in project without any problem
+    CDN- content delivery network it a network where packages are store and we retrive that data using a link
+*/
